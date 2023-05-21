@@ -87,7 +87,7 @@
             "assets": [
               {
                 "glob": "**/*",
-                "cdnUrl": "https://cdn.render.com/<your-project-id>"
+                "cdnUrl": "https://cdn.render.com/iti-epic-dashboard"
               }
             ],
             "styles": ["src/styles.scss"],
